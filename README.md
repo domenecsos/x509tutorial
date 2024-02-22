@@ -22,5 +22,7 @@ Para trabar con SSL, certificados y autenticación mutua mTLS es necesario manej
 
 Antes que hacer aquí una tesis, se intentará explicar muy someramente los conceptos a medida que se hagan operaciones en las pruebas de concepto, intentando que sea un *learn by example*.
 
+Y al final se hizo un resumen de [conceptos](90.conceptos-pki.md).
+
 
 
